@@ -3,3 +3,6 @@ venv/
 ENV/
 env/
 .venv/
+
+# Ignore the local dataset downloaded
+labs/datasets/
